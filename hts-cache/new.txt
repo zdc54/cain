@@ -1,0 +1,7 @@
+date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
+21:01:28	2216/2216	---M--	200	added ('OK')	text/html	date:Sat,%2011%20Dec%202021%2003:01:29%20GMT	https://cain.bananahackers.net/	C:/My%20Web%20Sites/kai/cain.bananahackers.net/index.html	(from )
+21:01:28	3067/3067	---MC-	404	error ('Not%20Found')	text/html	date:Sat,%2011%20Dec%202021%2003:01:28%20GMT	https://cain.bananahackers.net/robots.txt		(from )
+21:01:29	1866/1866	---M--	200	added ('OK')	text/css	date:Sat,%2011%20Dec%202021%2003:01:29%20GMT	https://cain.bananahackers.net/ui.css	C:/My%20Web%20Sites/kai/cain.bananahackers.net/ui.css	(from https://cain.bananahackers.net/)
+21:01:29	44434/44434	---M--	200	added ('OK')	image/png	date:Sat,%2011%20Dec%202021%2003:01:30%20GMT	https://cain.bananahackers.net/icon.png	C:/My%20Web%20Sites/kai/cain.bananahackers.net/icon.png	(from https://cain.bananahackers.net/)
+21:01:30	2974/2974	---M--	200	added ('OK')	application/javascript	date:Sat,%2011%20Dec%202021%2003:01:30%20GMT	https://cain.bananahackers.net/usbio.js	C:/My%20Web%20Sites/kai/cain.bananahackers.net/usbio.js	(from https://cain.bananahackers.net/)
+21:01:30	5699/5699	---M--	200	added ('OK')	application/javascript	date:Sat,%2011%20Dec%202021%2003:01:31%20GMT	https://cain.bananahackers.net/ui.js	C:/My%20Web%20Sites/kai/cain.bananahackers.net/ui.js	(from https://cain.bananahackers.net/)
